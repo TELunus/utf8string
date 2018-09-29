@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1530326109 source:t:\projects\utf8string\main.cpp
+
+1530326201 source:t:\projects\utf8string\src\string.cpp
+	"string.h"
+
+1530326201 t:\projects\utf8string\include\string.h
+
+1530427795 source:t:\projects\utf8string\src\utf8string.cpp
+	"utf8string.h"
+
+1530427823 t:\projects\utf8string\include\utf8string.h
+
+1538094078 source:z:\projects\utf8string\src\utf8string.cpp
+	"utf8string.h"
+	<cstdint>
+
+1530427823 z:\projects\utf8string\include\utf8string.h
+

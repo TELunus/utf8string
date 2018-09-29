@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1530635842 source:t:\projects\utf8string\unicodedataprocessor.cpp
+	<sstream>
+	<iostream>
+	<vector>
+	<string>
+	<istream>
+	<fstream>
+
